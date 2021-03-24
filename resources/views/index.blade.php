@@ -500,7 +500,7 @@
                             <input class="form-check-input" type="checkbox" name="carmoto" id="carmoto"
                                 value="1">
                             <label class="form-check-label"
-                                for="carmoto">รถมอเตอร์ไซต์/เรือประมงพื้นบ้าน(ขนาดเล็ก)</label>
+                                for="carmoto">รถมอเตอร์ไซต์/เรือประมงพื้นบ้าน(ขนาดเล็ก) </label>
                         </div>
                         <div class="form-check form-check-inline">
                             <input class="form-check-input" type="checkbox" name="carno" id="carno"
